@@ -1,0 +1,65 @@
+c:\users\demch\documents\visual studio 2015\Projects\home_work\home_work\bin\Debug\home_work.exe.config
+c:\users\demch\documents\visual studio 2015\Projects\home_work\home_work\bin\Debug\home_work.exe
+c:\users\demch\documents\visual studio 2015\Projects\home_work\home_work\bin\Debug\home_work.pdb
+c:\users\demch\documents\visual studio 2015\Projects\home_work\home_work\obj\Debug\home_work.Form1.resources
+c:\users\demch\documents\visual studio 2015\Projects\home_work\home_work\obj\Debug\home_work.Properties.Resources.resources
+c:\users\demch\documents\visual studio 2015\Projects\home_work\home_work\obj\Debug\home_work.csproj.GenerateResource.Cache
+c:\users\demch\documents\visual studio 2015\Projects\home_work\home_work\obj\Debug\home_work.exe
+c:\users\demch\documents\visual studio 2015\Projects\home_work\home_work\obj\Debug\home_work.pdb
+C:\Users\Demch\documents\visual studio 2015\Projects\home_work\home_work\obj\Debug\home_work.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\ЕМПІ\home_work\home_work\bin\Debug\home_work.exe.config
+C:\Users\pc\Desktop\ЕМПІ\home_work\home_work\obj\Debug\home_work.exe
+C:\Users\pc\Desktop\ЕМПІ\home_work\home_work\obj\Debug\home_work.pdb
+C:\Users\pc\Desktop\ЕМПІ\home_work\home_work\bin\Debug\home_work.exe
+C:\Users\pc\Desktop\ЕМПІ\home_work\home_work\bin\Debug\home_work.pdb
+C:\Users\pc\Desktop\ЕМПІ\home_work\home_work\obj\Debug\home_work.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\ЕМПІ\home_work\home_work\obj\Debug\home_work.Form1.resources
+C:\Users\pc\Desktop\ЕМПІ\home_work\home_work\obj\Debug\home_work.Properties.Resources.resources
+C:\Users\pc\Desktop\ЕМПІ\home_work\home_work\obj\Debug\home_work.csproj.GenerateResource.Cache
+D:\Домаха ЕМПІ\home_work\home_work\bin\Debug\home_work.exe.config
+D:\Домаха ЕМПІ\home_work\home_work\obj\Debug\home_work.exe
+D:\Домаха ЕМПІ\home_work\home_work\obj\Debug\home_work.pdb
+D:\Домаха ЕМПІ\DZ\home_work\bin\Debug\home_work.exe.config
+D:\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.exe
+D:\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.pdb
+D:\Домаха ЕМПІ\DZ\home_work\bin\Debug\home_work.exe
+D:\Домаха ЕМПІ\DZ\home_work\bin\Debug\home_work.pdb
+D:\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.csprojResolveAssemblyReference.cache
+D:\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.MyTask.resources
+D:\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.Properties.Resources.resources
+D:\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.csproj.GenerateResource.Cache
+D:\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.Histograma.resources
+D:\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.Regreci9.resources
+G:\Домаха ЕМПІ\DZ\home_work\bin\Debug\home_work.exe.config
+G:\Домаха ЕМПІ\DZ\home_work\bin\Debug\home_work.exe
+G:\Домаха ЕМПІ\DZ\home_work\bin\Debug\home_work.pdb
+G:\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.csprojResolveAssemblyReference.cache
+G:\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.Histograma.resources
+G:\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.MyTask.resources
+G:\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.Properties.Resources.resources
+G:\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.Regreci9.resources
+G:\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.csproj.GenerateResource.Cache
+G:\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.exe
+G:\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.pdb
+C:\Users\Kseniia\Desktop\nau\2 ЕМПІ. Вечерковська 4\Домаха ЕМПІ\DZ\home_work\bin\Debug\home_work.exe.config
+C:\Users\Kseniia\Desktop\nau\2 ЕМПІ. Вечерковська 4\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.exe
+C:\Users\Kseniia\Desktop\nau\2 ЕМПІ. Вечерковська 4\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.pdb
+C:\Users\Kseniia\Desktop\nau\2 ЕМПІ. Вечерковська 4\Домаха ЕМПІ\DZ\home_work\bin\Debug\home_work.exe
+C:\Users\Kseniia\Desktop\nau\2 ЕМПІ. Вечерковська 4\Домаха ЕМПІ\DZ\home_work\bin\Debug\home_work.pdb
+C:\Users\Kseniia\Desktop\nau\2 ЕМПІ. Вечерковська 4\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.csprojResolveAssemblyReference.cache
+C:\Users\Kseniia\Desktop\nau\2 ЕМПІ. Вечерковська 4\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.Histograma.resources
+C:\Users\Kseniia\Desktop\nau\2 ЕМПІ. Вечерковська 4\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.MyTask.resources
+C:\Users\Kseniia\Desktop\nau\2 ЕМПІ. Вечерковська 4\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.Properties.Resources.resources
+C:\Users\Kseniia\Desktop\nau\2 ЕМПІ. Вечерковська 4\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.Regreci9.resources
+C:\Users\Kseniia\Desktop\nau\2 ЕМПІ. Вечерковська 4\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.csproj.GenerateResource.Cache
+C:\Users\tumah\OneDrive\Робочий стіл\Домаха ЕМПІ\DZ\home_work\bin\Debug\home_work.exe.config
+C:\Users\tumah\OneDrive\Робочий стіл\Домаха ЕМПІ\DZ\home_work\bin\Debug\home_work.exe
+C:\Users\tumah\OneDrive\Робочий стіл\Домаха ЕМПІ\DZ\home_work\bin\Debug\home_work.pdb
+C:\Users\tumah\OneDrive\Робочий стіл\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.csprojAssemblyReference.cache
+C:\Users\tumah\OneDrive\Робочий стіл\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.Histograma.resources
+C:\Users\tumah\OneDrive\Робочий стіл\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.MyTask.resources
+C:\Users\tumah\OneDrive\Робочий стіл\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.Properties.Resources.resources
+C:\Users\tumah\OneDrive\Робочий стіл\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.Regreci9.resources
+C:\Users\tumah\OneDrive\Робочий стіл\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.csproj.GenerateResource.cache
+C:\Users\tumah\OneDrive\Робочий стіл\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.exe
+C:\Users\tumah\OneDrive\Робочий стіл\Домаха ЕМПІ\DZ\home_work\obj\Debug\home_work.pdb
